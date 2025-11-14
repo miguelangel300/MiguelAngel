@@ -14,9 +14,31 @@
       /></a>
     </p>
     <br />
+    <p align="center">
+     <h3>About Me</h3>
+    🌍  I'm based in Seville, Spain  <br />
+    ✉️  You can contact me at <a href="m.angel.d.oliva@gmail.com">m.angel.d.oliva@gmail.com</a>
+    </p>
     <br /><br />
+  <!--separator-->
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     />
+      <!--separator-->
     <br />
-    <br />
+    <!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Skills</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<div align="center">
+  
+| Website | Programing | 
+| ------------- | ------------- | 
+| <img src="https://skillicons.dev/icons?i=html,tailwind,js,ts,react"/> | <img src="https://skillicons.dev/icons?i=py,cpp,git,java,kotlin"/> |
+| Backend |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase"/> | 
+
+</div>
